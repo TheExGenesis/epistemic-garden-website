@@ -1,29 +1,37 @@
-# The Monospace Web
+# Epistemic Garden Website
 
-Monospace fonts are dear to many of us. Some find them more readable, consistent, and beautiful, than their proportional alternatives. Maybe we’re just brainwashed from spending years in terminals? Or are we hopelessly nostalgic? I’m not sure. But I like them, and that’s why I started experimenting with all-monospace Web.
+Mapping how ideas spread online - the official website for Epistemic Garden.
 
-https://owickstrom.github.io/the-monospace-web/
+## About
 
-## Install
+We're building tools to help communities understand their information landscape and protect against harmful coordinated narratives.
 
+## Tech Stack
+
+- Static HTML/CSS/JS based on [The Monospace Web](https://github.com/owickstrom/the-monospace-web)
+- Custom epistemic garden green theme
+- Deployed on Vercel
+
+## Development
+
+```bash
+# Install dependencies
+npm install
+
+# Run locally
+python3 -m http.server 8000
+# or
+npx serve .
 ```
-npm install @owickstrom/the-monospace-web
-```
 
-## Usage
+## Deployment
 
-```html
-<link rel="stylesheet" href="node_modules/@owickstrom/the-monospace-web/dist/reset.css">
-<link rel="stylesheet" href="node_modules/@owickstrom/the-monospace-web/dist/index.css">
-```
+This site automatically deploys to Vercel on push to the main branch.
 
-## Build
+## Credits
 
-```
-nix develop # or `direnv allow .`
-make
-```
+Design system based on [The Monospace Web](https://owickstrom.github.io/the-monospace-web/) by Oskar Wickström.
 
 ## License
 
-[MIT](LICENSE.md)
+MIT
