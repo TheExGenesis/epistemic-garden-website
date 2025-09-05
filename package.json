@@ -19,12 +19,14 @@
     "url": "https://github.com/owickstrom/the-monospace-web/issues"
   },
   "homepage": "https://github.com/owickstrom/the-monospace-web#readme",
-
   "files": [
     "src/index.css",
     "src/reset.css",
     "src/index.js",
     "LICENSE",
     "README.md"
-  ]
+  ],
+  "devDependencies": {
+    "vercel": "^47.0.5"
+  }
 }

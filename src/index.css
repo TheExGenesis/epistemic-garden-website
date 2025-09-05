@@ -8,10 +8,10 @@
   --font-family: "JetBrains Mono", monospace;
   --line-height: 1.20rem;
   --border-thickness: 2px;
-  --text-color: #000;
-  --text-color-alt: #666;
-  --background-color: #fff;
-  --background-color-alt: #eee;
+  --text-color: #2d5016;
+  --text-color-alt: #4a7c28;
+  --background-color: #fef9ed;
+  --background-color-alt: #ffe6be;
 
   --font-weight-normal: 500;
   --font-weight-medium: 600;
@@ -25,12 +25,12 @@
   font-size: 16px;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
-    --text-color: #fff;
-    --text-color-alt: #aaa;
-    --background-color: #000;
-    --background-color-alt: #111;
+    --text-color: #9fc867;
+    --text-color-alt: #7aa548;
+    --background-color: #1a1815;
+    --background-color-alt: #252320;
   }
 }
 
@@ -464,4 +464,8 @@ label input {
 
 .debug-toggle-label {
   text-align: right;
+}
+
+#banner {
+  opacity: 1;
 }
