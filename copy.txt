@@ -1,18 +1,20 @@
 hero section
 epistemic garden - mapping how ideas spread online
-we're building tools to help communities understand their information landscape and protect against coordinated narratives and ai manipulation.
+We're building tools to help communities understand their information landscape and protect against coordinated narratives and ai manipulation.
 philosophy (2-3 paragraphs max)
-online communities are rich sensemaking spots where people figure out truth together. but without awareness of the narrative patterns shaping discourse, they're vulnerable to psyops and manipulation that will only intensify with ai.
-we follow a living lab philosophy - open by default, community-oriented. our volunteer data donors are the main stakeholders. we iterate with them to build "jungle eyes" - informed awareness of the memetic forces at play.
-think of it as moving toward a germ theory for ideas. just as understanding microbes revolutionized public health, mapping idea diffusion can help communities maintain memetic sovereignty and epistemological robustness.
+Online communities are rich sensemaking spots where people figure out truth (useful frames) together. But without awareness of the narrative patterns shaping discourse, they're vulnerable to psyops and manipulation that will only intensify with AI growth.
+We follow a living lab philosophy - open by default, community-oriented. Users who volunteer their data to the Community archive are our main stakeholders. We iterate with them to build "jungle eyes" - tools to inform awareness of the memetic forces at play.
+We think of it as moving toward a germ theory for ideas. Just like building a microscope revolutionized public health, tools that map idea diffusion can help communities maintain memetic sovereignty and epistemological robustness.
+
 core projects
 
 community archive - crowdsourced social media data (17m tweets and growing)
-the nooscope - track idea origins and diffusion across the social graph
 keyword trends - like google trends but for your community's discourse
 birdseye - visualize someone's body of work by topic over time
-meme reports - weekly synthesis of what ideas are spreading and where from
-discourse maps - navigate complex discussions and identify camps/arguments
+the nooscope - track idea origins and diffusion across the social graph (in progress)
+meme reports - weekly synthesis of what ideas are spreading and where from (in progress)
+discourse maps - navigate complex discussions and identify camps/arguments (in progress)
+matchmaking - find friends, collaborators, trades, etc. (in progress)
 
 team
 
@@ -31,3 +33,14 @@ featured
 support
 $175k raised from vitalik buterin, sff, peter wang. seeking $1m to scale to 100k+ daily posts and release peer-reviewed validations.
 
+links
+[Epistemic Garden Strategy doc](https://docs.google.com/document/d/1jGGGYPpfPc6YxgqyOncZoRNQWqG5SeyamaFC0ejvaaw/edit?tab=t.0)
+[Community Archive](https://www.community-archive.org/)
+[CA Github](https://github.com/TheExGenesis/community-archive/pulls)
+[CA Substack](https://communityarchive.substack.com/)
+[CA Discord](https://discord.gg/mtdNfHDkyR) has been a Schelling point for open sensemaking and memetics research.
+- [CA announcement](https://xiqo.substack.com/cp/151822784)
+- [Exploring historical trends in the community archive](https://communityarchive.substack.com/p/exploring-historical-trends-in-the)
+- [a Birdseye view of your tweets](https://xiqo.substack.com/cp/163163201)
+- [the community archive hackathon](https://xiqo.substack.com/cp/163163264)
+- [our conference paper](https://communityarchive.substack.com/p/were-submitting-a-paper-about-the)
