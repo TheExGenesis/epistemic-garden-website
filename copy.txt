@@ -1,6 +1,10 @@
 hero section
 epistemic garden - mapping how ideas spread online
-We're building tools to help communities understand their information landscape and protect against coordinated narratives and ai manipulation.
+We're building tools to help communities understand their information landscape and protect against harmful coordinated narratives.
+
+[figure](minimal, dithered landscape from above, with the HUD/garden sections featuring fewer right angles and more organic forms like swales and water features, alongside visible fruit trees and other garden elements, all within the three-color palette.
+)
+
 philosophy (2-3 paragraphs max)
 Online communities are rich sensemaking spots where people figure out truth (useful frames) together. But without awareness of the narrative patterns shaping discourse, they're vulnerable to psyops and manipulation that will only intensify with AI growth.
 We follow a living lab philosophy - open by default, community-oriented. Users who volunteer their data to the Community archive are our main stakeholders. We iterate with them to build "jungle eyes" - tools to inform awareness of the memetic forces at play.
