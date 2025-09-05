@@ -1,0 +1,33 @@
+hero section
+epistemic garden - mapping how ideas spread online
+we're building tools to help communities understand their information landscape and protect against coordinated narratives and ai manipulation.
+philosophy (2-3 paragraphs max)
+online communities are rich sensemaking spots where people figure out truth together. but without awareness of the narrative patterns shaping discourse, they're vulnerable to psyops and manipulation that will only intensify with ai.
+we follow a living lab philosophy - open by default, community-oriented. our volunteer data donors are the main stakeholders. we iterate with them to build "jungle eyes" - informed awareness of the memetic forces at play.
+think of it as moving toward a germ theory for ideas. just as understanding microbes revolutionized public health, mapping idea diffusion can help communities maintain memetic sovereignty and epistemological robustness.
+core projects
+
+community archive - crowdsourced social media data (17m tweets and growing)
+the nooscope - track idea origins and diffusion across the social graph
+keyword trends - like google trends but for your community's discourse
+birdseye - visualize someone's body of work by topic over time
+meme reports - weekly synthesis of what ideas are spreading and where from
+discourse maps - navigate complex discussions and identify camps/arguments
+
+team
+
+xiq (@exgenesis) - lead, ml/swe
+goat - swe
+emergent - data science/ml
+advisors from midjourney, nomic ai, metr, microsolidarity
+
+featured
+
+[strategy document] - our full vision and approach
+[facilitator's catechism] - philosophical foundation
+[nyc hackathon recap] - 30 builders, 15 prototypes
+[neurips submission] - finding cultural producers in networks
+
+support
+$175k raised from vitalik buterin, sff, peter wang. seeking $1m to scale to 100k+ daily posts and release peer-reviewed validations.
+
