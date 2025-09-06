@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="src/index.css" />
 </head>
 <body>
+<button class="dark-mode-toggle" onclick="toggleDarkMode()">🌙 Dark</button>
 <table class="header">
   <tr>
     <td colspan="2" rowspan="2" class="width-auto">
@@ -129,6 +130,30 @@
   <script defer src="/_vercel/insights/script.js"></script>
   <script>
     window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+    
+    // Dark mode toggle functionality
+    function toggleDarkMode() {
+      const body = document.body;
+      const button = document.querySelector('.dark-mode-toggle');
+      const isDarkMode = body.classList.toggle('dark-mode');
+      
+      // Update button text
+      button.textContent = isDarkMode ? '☀️ Light' : '🌙 Dark';
+      
+      // Save preference to localStorage
+      localStorage.setItem('darkMode', isDarkMode ? 'enabled' : 'disabled');
+    }
+    
+    // Load saved preference on page load
+    document.addEventListener('DOMContentLoaded', function() {
+      const darkModePreference = localStorage.getItem('darkMode');
+      const button = document.querySelector('.dark-mode-toggle');
+      
+      if (darkModePreference === 'enabled') {
+        document.body.classList.add('dark-mode');
+        button.textContent = '☀️ Light';
+      }
+    });
   </script>
 </body>
 </html>

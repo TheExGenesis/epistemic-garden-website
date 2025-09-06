@@ -25,13 +25,12 @@
   font-size: 16px;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    --text-color: #9fc867;
-    --text-color-alt: #7aa548;
-    --background-color: #1a1815;
-    --background-color-alt: #252320;
-  }
+/* Dark mode styles */
+body.dark-mode {
+  --text-color: #9fc867;
+  --text-color-alt: #7aa548;
+  --background-color: #1a1815;
+  --background-color-alt: #252320;
 }
 
 * {
@@ -468,4 +467,25 @@ label input {
 
 #banner {
   opacity: 1;
+}
+
+/* Dark mode toggle */
+.dark-mode-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 1000;
+  background: var(--background-color-alt);
+  color: var(--text-color);
+  border: var(--border-thickness) solid var(--text-color);
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-family: var(--font-family);
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+.dark-mode-toggle:hover {
+  background: var(--text-color);
+  color: var(--background-color);
 }
