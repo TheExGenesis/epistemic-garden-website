@@ -28,5 +28,8 @@
   ],
   "devDependencies": {
     "vercel": "^47.0.5"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.5.0"
   }
 }
