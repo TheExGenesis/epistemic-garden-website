@@ -28,6 +28,7 @@ advisors from midjourney, nomic ai, metr, microsolidarity
 
 featured
 
+[unconference on AI for collective sensemaking](https://xiqo.substack.com/p/the-unconference-on-ai-for-collective) - recent gathering recap
 [strategy document] - our full vision and approach
 [facilitator's catechism] - philosophical foundation
 [nyc hackathon recap] - 30 builders, 15 prototypes
