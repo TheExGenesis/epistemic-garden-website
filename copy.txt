@@ -15,7 +15,7 @@ core projects
 community archive - crowdsourced social media data (17m tweets and growing)
 keyword trends - like google trends but for your community's discourse
 birdseye - visualize someone's body of work by topic over time
-the nooscope - track idea origins and diffusion across the social graph (in progress)
+the nooscope - track idea origins and diffusion across the social graph ([in progress](https://xiqo.substack.com/s/epistemic-garden-lab-notes?utm_source=substack&utm_medium=menu))
 meme reports - weekly synthesis of what ideas are spreading and where from (in progress)
 discourse maps - navigate complex discussions and identify camps/arguments (in progress)
 matchmaking - find friends, collaborators, trades, etc. (in progress)
