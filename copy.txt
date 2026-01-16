@@ -24,7 +24,6 @@ team
 
 xiq (@exgenesis) - lead, ml/swe
 goat - swe
-emergent - data science/ml
 advisors from midjourney, nomic ai, metr, microsolidarity
 
 featured
@@ -38,6 +37,7 @@ support
 $175k raised from vitalik buterin, sff, peter wang. seeking $1m to scale to 100k+ daily posts and release peer-reviewed validations.
 
 links
+[Epistemic Garden Lab Notes](https://xiqo.substack.com/s/epistemic-garden-lab-notes?utm_source=substack&utm_medium=menu)
 [Epistemic Garden Strategy doc](https://docs.google.com/document/d/1jGGGYPpfPc6YxgqyOncZoRNQWqG5SeyamaFC0ejvaaw/edit?tab=t.0)
 [Community Archive](https://www.community-archive.org/)
 [CA Github](https://github.com/TheExGenesis/community-archive/pulls)
